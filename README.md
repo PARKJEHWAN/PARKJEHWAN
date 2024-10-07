@@ -1,4 +1,10 @@
 ## Hi there 👋
+제 이름은 박제환입니다. My english name is Joseph.
+제 생년월일은 2000년 4월 12일입니다. 모두 때가 되면 생일 축하를 해주십시오!
+저의 성별은 남성(Male)입니다. 혈액형은 AB형이며 MBTI 는 ENFJ입니다. 
+저는 SW개발에 관심이 아주 많습니다. 올해 안에 창업을 시도하려합니다.
+아직 할 줄 아는 것은 별로 없지만 차차 공부하며 배워가려 합니다.
+여러분의 무궁한 발전을 기원하며 소개를 마치겠습니다. 감사합니다.
 
 <!--
 **PARKJEHWAN/PARKJEHWAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
